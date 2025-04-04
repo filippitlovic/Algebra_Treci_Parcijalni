@@ -12,3 +12,4 @@ C:\Users\Korisnik\source\Algebra_Treci_parcijalni_ispit\Ispit.Konzola\Ispit.Konz
 C:\Users\Korisnik\source\Algebra_Treci_parcijalni_ispit\Ispit.Konzola\Ispit.Konzola\obj\Debug\net8.0\Ispit.Konzola.pdb
 C:\Users\Korisnik\source\Algebra_Treci_parcijalni_ispit\Ispit.Konzola\Ispit.Konzola\obj\Debug\net8.0\Ispit.Konzola.genruntimeconfig.cache
 C:\Users\Korisnik\source\Algebra_Treci_parcijalni_ispit\Ispit.Konzola\Ispit.Konzola\obj\Debug\net8.0\ref\Ispit.Konzola.dll
+C:\Users\Korisnik\source\Algebra_Treci_parcijalni_ispit\Ispit.Konzola\Ispit.Konzola\obj\Debug\net8.0\Ispit.Konzola.sourcelink.json

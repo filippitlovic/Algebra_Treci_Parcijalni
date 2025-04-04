@@ -18,7 +18,7 @@ namespace Ispit.Konzola
         }
         public string Surfanje(string url)
         {
-            if (!ProvjeriAkoJeValidanUrl(url))
+            if (ProvjeriAkoJeValidanUrl(url))
             {
                 return url;
             }
@@ -30,7 +30,7 @@ namespace Ispit.Konzola
 
         public string Poziv(string tel_broj)
         {
-            if (!ProvjeriAkoJeValidanBroj(tel_broj))
+            if (ProvjeriAkoJeValidanBroj(tel_broj))
                 return tel_broj;
             else
                 return "Neispravan tel_broj";
@@ -47,7 +47,7 @@ namespace Ispit.Konzola
 
         public bool ProvjeriAkoJeValidanUrl(string url)
         {
-            string pattern = @"^(https?)://[^\s/$.?#].[^\s]*$";
+            string pattern = @"^\D*$";
 
             Regex regex = new Regex(pattern);
 

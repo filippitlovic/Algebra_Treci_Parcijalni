@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{93C26E8B-A9A3-401A-B56E-716781A597DA}|Ispit.Konzola\\Ispit.Konzola.csproj|solutionrelative:ispit.konzola\\pametnitelefon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93C26E8B-A9A3-401A-B56E-716781A597DA}|Ispit.Konzola\\Ispit.Konzola.csproj|c:\\users\\korisnik\\source\\algebra_treci_parcijalni_ispit\\ispit.konzola\\ispit.konzola\\interfaces\\itelefon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93C26E8B-A9A3-401A-B56E-716781A597DA}|Ispit.Konzola\\Ispit.Konzola.csproj|solutionrelative:ispit.konzola\\interfaces\\itelefon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{93C26E8B-A9A3-401A-B56E-716781A597DA}|Ispit.Konzola\\Ispit.Konzola.csproj|c:\\users\\korisnik\\source\\algebra_treci_parcijalni_ispit\\ispit.konzola\\ispit.konzola\\interfaces\\ipametnitelefon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93C26E8B-A9A3-401A-B56E-716781A597DA}|Ispit.Konzola\\Ispit.Konzola.csproj|solutionrelative:ispit.konzola\\interfaces\\ipametnitelefon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C26E8B-A9A3-401A-B56E-716781A597DA}|Ispit.Konzola\\Ispit.Konzola.csproj|c:\\users\\korisnik\\source\\algebra_treci_parcijalni_ispit\\ispit.konzola\\ispit.konzola\\interfaces\\itelefon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C26E8B-A9A3-401A-B56E-716781A597DA}|Ispit.Konzola\\Ispit.Konzola.csproj|solutionrelative:ispit.konzola\\interfaces\\itelefon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,27 +40,27 @@
               "RelativeDocumentMoniker": "Ispit.Konzola\\PametniTelefon.cs",
               "ToolTip": "C:\\Users\\Korisnik\\source\\Algebra_Treci_parcijalni_ispit\\Ispit.Konzola\\Ispit.Konzola\\PametniTelefon.cs",
               "RelativeToolTip": "Ispit.Konzola\\PametniTelefon.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAA9wBgAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T20:25:28.9Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "IPametniTelefon.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\Algebra_Treci_parcijalni_ispit\\Ispit.Konzola\\Ispit.Konzola\\Interfaces\\IPametniTelefon.cs",
               "RelativeDocumentMoniker": "Ispit.Konzola\\Interfaces\\IPametniTelefon.cs",
               "ToolTip": "C:\\Users\\Korisnik\\source\\Algebra_Treci_parcijalni_ispit\\Ispit.Konzola\\Ispit.Konzola\\Interfaces\\IPametniTelefon.cs",
               "RelativeToolTip": "Ispit.Konzola\\Interfaces\\IPametniTelefon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T20:22:47.799Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ITelefon.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\Algebra_Treci_parcijalni_ispit\\Ispit.Konzola\\Ispit.Konzola\\Interfaces\\ITelefon.cs",
               "RelativeDocumentMoniker": "Ispit.Konzola\\Interfaces\\ITelefon.cs",
@@ -79,7 +79,7 @@
               "RelativeDocumentMoniker": "Ispit.Konzola\\Program.cs",
               "ToolTip": "C:\\Users\\Korisnik\\source\\Algebra_Treci_parcijalni_ispit\\Ispit.Konzola\\Ispit.Konzola\\Program.cs",
               "RelativeToolTip": "Ispit.Konzola\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAuwAcAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T20:11:23.074Z",
               "EditorCaption": ""

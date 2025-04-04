@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ispit.Konzola.Interfaces
 {
-    public interface IPametniTelefon
+    public interface IPametniTelefon : ITelefon
     {
         public string Surfanje(string url);
     }
