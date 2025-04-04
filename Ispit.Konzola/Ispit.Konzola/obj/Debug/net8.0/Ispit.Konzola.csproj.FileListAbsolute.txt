@@ -1,0 +1,14 @@
+C:\Users\Korisnik\source\Algebra_Treci_parcijalni_ispit\Ispit.Konzola\Ispit.Konzola\bin\Debug\net8.0\Ispit.Konzola.exe
+C:\Users\Korisnik\source\Algebra_Treci_parcijalni_ispit\Ispit.Konzola\Ispit.Konzola\bin\Debug\net8.0\Ispit.Konzola.deps.json
+C:\Users\Korisnik\source\Algebra_Treci_parcijalni_ispit\Ispit.Konzola\Ispit.Konzola\bin\Debug\net8.0\Ispit.Konzola.runtimeconfig.json
+C:\Users\Korisnik\source\Algebra_Treci_parcijalni_ispit\Ispit.Konzola\Ispit.Konzola\bin\Debug\net8.0\Ispit.Konzola.dll
+C:\Users\Korisnik\source\Algebra_Treci_parcijalni_ispit\Ispit.Konzola\Ispit.Konzola\bin\Debug\net8.0\Ispit.Konzola.pdb
+C:\Users\Korisnik\source\Algebra_Treci_parcijalni_ispit\Ispit.Konzola\Ispit.Konzola\obj\Debug\net8.0\Ispit.Konzola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\source\Algebra_Treci_parcijalni_ispit\Ispit.Konzola\Ispit.Konzola\obj\Debug\net8.0\Ispit.Konzola.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\Algebra_Treci_parcijalni_ispit\Ispit.Konzola\Ispit.Konzola\obj\Debug\net8.0\Ispit.Konzola.AssemblyInfo.cs
+C:\Users\Korisnik\source\Algebra_Treci_parcijalni_ispit\Ispit.Konzola\Ispit.Konzola\obj\Debug\net8.0\Ispit.Konzola.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\Algebra_Treci_parcijalni_ispit\Ispit.Konzola\Ispit.Konzola\obj\Debug\net8.0\Ispit.Konzola.dll
+C:\Users\Korisnik\source\Algebra_Treci_parcijalni_ispit\Ispit.Konzola\Ispit.Konzola\obj\Debug\net8.0\refint\Ispit.Konzola.dll
+C:\Users\Korisnik\source\Algebra_Treci_parcijalni_ispit\Ispit.Konzola\Ispit.Konzola\obj\Debug\net8.0\Ispit.Konzola.pdb
+C:\Users\Korisnik\source\Algebra_Treci_parcijalni_ispit\Ispit.Konzola\Ispit.Konzola\obj\Debug\net8.0\Ispit.Konzola.genruntimeconfig.cache
+C:\Users\Korisnik\source\Algebra_Treci_parcijalni_ispit\Ispit.Konzola\Ispit.Konzola\obj\Debug\net8.0\ref\Ispit.Konzola.dll

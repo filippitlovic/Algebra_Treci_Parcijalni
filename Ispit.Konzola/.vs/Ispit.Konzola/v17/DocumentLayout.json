@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Korisnik\\source\\Algebra_Treci_parcijalni_ispit\\Ispit.Konzola\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93C26E8B-A9A3-401A-B56E-716781A597DA}|Ispit.Konzola\\Ispit.Konzola.csproj|c:\\users\\korisnik\\source\\algebra_treci_parcijalni_ispit\\ispit.konzola\\ispit.konzola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C26E8B-A9A3-401A-B56E-716781A597DA}|Ispit.Konzola\\Ispit.Konzola.csproj|solutionrelative:ispit.konzola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C26E8B-A9A3-401A-B56E-716781A597DA}|Ispit.Konzola\\Ispit.Konzola.csproj|c:\\users\\korisnik\\source\\algebra_treci_parcijalni_ispit\\ispit.konzola\\ispit.konzola\\pametnitelefon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C26E8B-A9A3-401A-B56E-716781A597DA}|Ispit.Konzola\\Ispit.Konzola.csproj|solutionrelative:ispit.konzola\\pametnitelefon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C26E8B-A9A3-401A-B56E-716781A597DA}|Ispit.Konzola\\Ispit.Konzola.csproj|c:\\users\\korisnik\\source\\algebra_treci_parcijalni_ispit\\ispit.konzola\\ispit.konzola\\interfaces\\ipametnitelefon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C26E8B-A9A3-401A-B56E-716781A597DA}|Ispit.Konzola\\Ispit.Konzola.csproj|solutionrelative:ispit.konzola\\interfaces\\ipametnitelefon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C26E8B-A9A3-401A-B56E-716781A597DA}|Ispit.Konzola\\Ispit.Konzola.csproj|c:\\users\\korisnik\\source\\algebra_treci_parcijalni_ispit\\ispit.konzola\\ispit.konzola\\interfaces\\itelefon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C26E8B-A9A3-401A-B56E-716781A597DA}|Ispit.Konzola\\Ispit.Konzola.csproj|solutionrelative:ispit.konzola\\interfaces\\itelefon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PametniTelefon.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\Algebra_Treci_parcijalni_ispit\\Ispit.Konzola\\Ispit.Konzola\\PametniTelefon.cs",
+              "RelativeDocumentMoniker": "Ispit.Konzola\\PametniTelefon.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\Algebra_Treci_parcijalni_ispit\\Ispit.Konzola\\Ispit.Konzola\\PametniTelefon.cs",
+              "RelativeToolTip": "Ispit.Konzola\\PametniTelefon.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:25:28.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPametniTelefon.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\Algebra_Treci_parcijalni_ispit\\Ispit.Konzola\\Ispit.Konzola\\Interfaces\\IPametniTelefon.cs",
+              "RelativeDocumentMoniker": "Ispit.Konzola\\Interfaces\\IPametniTelefon.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\Algebra_Treci_parcijalni_ispit\\Ispit.Konzola\\Ispit.Konzola\\Interfaces\\IPametniTelefon.cs",
+              "RelativeToolTip": "Ispit.Konzola\\Interfaces\\IPametniTelefon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:22:47.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITelefon.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\Algebra_Treci_parcijalni_ispit\\Ispit.Konzola\\Ispit.Konzola\\Interfaces\\ITelefon.cs",
+              "RelativeDocumentMoniker": "Ispit.Konzola\\Interfaces\\ITelefon.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\Algebra_Treci_parcijalni_ispit\\Ispit.Konzola\\Ispit.Konzola\\Interfaces\\ITelefon.cs",
+              "RelativeToolTip": "Ispit.Konzola\\Interfaces\\ITelefon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:11:59.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\Algebra_Treci_parcijalni_ispit\\Ispit.Konzola\\Ispit.Konzola\\Program.cs",
+              "RelativeDocumentMoniker": "Ispit.Konzola\\Program.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\Algebra_Treci_parcijalni_ispit\\Ispit.Konzola\\Ispit.Konzola\\Program.cs",
+              "RelativeToolTip": "Ispit.Konzola\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:11:23.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
